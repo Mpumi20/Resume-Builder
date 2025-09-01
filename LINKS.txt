@@ -1,6 +1,0 @@
-Deployed App:
-https://emoji-ruby-95721418.figma.site/
-_____________________________________________________________________
-Git hub Repository:
-https://github.com/ily6ix/ai-resume-builder-app
-_____________________________________________________________________
